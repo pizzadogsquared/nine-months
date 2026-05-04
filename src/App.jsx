@@ -121,7 +121,7 @@ function App() {
             </div>
 
             <aside className="description-box">
-              <h2>A little note</h2>
+              <h2>Description</h2>
               <p>{activeSlide.text}</p>
 
               <div className="controls">
